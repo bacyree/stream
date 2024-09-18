@@ -1,1 +1,1 @@
-Learning project for my own IPTV usage
+Learning project for IPTV
