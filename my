@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 #EXTINF:-1 tvg-id="109.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="FHD",TV9 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
+#EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="" group-title="FHD",Al-Hijrah
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/TvAlhijrah/index.m3u8
+
 #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="FHD",Okey 
 https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
