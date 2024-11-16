@@ -28,6 +28,12 @@ https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/TvAlhijrah/inde
 https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
+#EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-logo="" group-title="FHD",Awani
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/index.m3u8
+
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png" group-logo="" group-title="FHD",Sukan RTM
 https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="Era" tvg-logo="https://github.com/bacyree/siaranMy/blob/main/logo/Era.png" group-logo="" group-title="Radio",Era
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/Era/playlist.m3u8
