@@ -35,5 +35,23 @@ https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/inde
 https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="Era" tvg-logo="https://github.com/bacyree/siaranMy/blob/main/logo/Era.png" group-logo="" group-title="Radio",Era
+#EXTINF:-1 tvg-id="Era" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" group-logo="" group-title="Radio",Era
 https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/Era/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fly Fm" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/FlyFm.png" group-logo="" group-title="Radio",Fly FM
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/FlyFm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hitz Fm" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HitzFm.png" group-logo="" group-title="Radio",Hitz FM
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/HitzFm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hot Fm" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png" group-logo="" group-title="Radio",Hot FM
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/HotFm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ikim Fm" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/IkimFm.png" group-logo="" group-title="Radio",IKIM FM
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/IkimFm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sinar Fm" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SinarFm.png" group-logo="" group-title="Radio",Sinar FM
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/SinarFm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Suria Fm" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png" group-logo="" group-title="Radio",Suria FM
+https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/SuriaFm/playlist.m3u8
