@@ -23,11 +23,8 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
 #EXTINF:-1 tvg-id="108.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="FHD",8TV 
 https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="149.astro" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="FHD",TV9 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
-#https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
+#EXTINF:-1 tvg-id="109.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="FHD",TV9 
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
 #EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="" group-title="FHD",Al-Hijrah
 https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/TvAlhijrah/index.m3u8
