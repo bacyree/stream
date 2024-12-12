@@ -2,11 +2,9 @@
 
 #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="FHD",TV1 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="FHD",TV2 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGJiMTI4OWUtMDBkYy0zZmFjLTgxYjQtNjljZGFlY2JkZTQx
@@ -15,7 +13,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=
 
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="FHD" ,TV6 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
@@ -34,7 +31,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="FHD",Okey 
 https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
@@ -46,7 +42,6 @@ https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/inde
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png" group-logo="" group-title="FHD",Sukan RTM
 https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-id="Era" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Era.png" group-logo="" group-title="Radio",Era
 https://github.com/bacyree/siaranMy/raw/refs/heads/main/radio/Era/playlist.m3u8
