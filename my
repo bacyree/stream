@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
 https://raw.githubusercontent.com/bacyree/siaranMy/refs/heads/main/channels/Tvs/index.m3u8
 
 #EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="FHD",Dunia Sinema
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-240H.m3u8
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-logo="" group-title="FHD",Awani
 https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/index.m3u8
