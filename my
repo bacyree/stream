@@ -6,12 +6,8 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
 #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="FHD",TV2 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGZkOTEwNjAtMzJmNy0zNTBmLWFmYWMtMGRlZWI1ZjhkNjMy
 #EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="FHD",TV3 
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225724/3221225724.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=m7BYMJtSGHWB13owxOjTfHXdQv3il%2FglLq6TxJZNAnTHhfkWwmh6Jymhe8sT8gcMICyO5631x8PrVky3wAx4SF%2FpMbOkXqJpLAbMf%2BtVBdGgahiHADVb9UrVuWlFZo04fd467a884254d0c37be117e60f99cd5e%3A20250820044806%3AUTC%2C1005926114%2C118.100.28.224%2C20250820044806%2Curn%3AHuawei%3AliveTV%3Aiptv182%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C3250936068%2C%2C%2C2%2C1%2C43361030%2CEND&GuardEncType=2&RTS=1755665286&from=28&hms_devid=64&online=1755665286&mag_hms=64,65&it=H4sIAAAAAAAAAy2MQQvCIBhA_41HUeekHTwVQRcJVl3jUz9FcJN0Dfr3tdjxwXtvqeDwctLOMxvQc1CHXjolLfPQD1ZiwCAGEKThyxTdEQc5pzma4rfsMR6fnFFGhewoF4rctt85Q9Tir5r3ZLHu8OtGrGtyqH0LdIVGIcaKEZZUZnrN8LnXvCtfkfyzCZoAAAA
+https://raw.githubusercontent.com/bacyree/siaranMy/refs/heads/main/channels/Tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="FHD" ,TV6 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
@@ -29,7 +25,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/channe
 https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
 
 #EXTINF:-1 tvg-id="122.astro" tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-logo="" group-title="FHD",TVS
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/channels/Tvs/index.m3u8
+https://raw.githubusercontent.com/bacyree/siaranMy/refs/heads/main/channels/Tvs/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
