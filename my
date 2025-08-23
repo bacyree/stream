@@ -30,27 +30,6 @@ https://raw.githubusercontent.com/bacyree/siaranMy/refs/heads/main/channels/Tvs/
 #EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="FHD",Dunia Sinema
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/channels/DuniaSinema/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGZkOTEwNjAtMzJmNy0zNTBmLWFmYWMtMGRlZWI1ZjhkNjMy
-#EXTINF:-1 tvg-id="412.astro" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809084408736zam.png" group-logo="" group-title="FHD",Cinemax
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225778/3221225778.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=s9X4ocDdHlHJ5EoqP%2B%2BOmi2vyofM49PpHJvuXHeC6TE93FrC5txgAjjiH2KC6Ws6WLcDJYGhT6S3c4Qc5YVpsV2p5o%2Fl4rsDZC%2BWlL0ST8WvZyP9lw3vYsfFKnc1s9Nq6e1aed3d4667643077ee8ef37ef04d85%3A20250820045704%3AUTC%2C1005926114%2C118.100.28.224%2C20250820045704%2Curn%3AHuawei%3AliveTV%3AXTV64139437%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1615850%2C0%2C521145%2C3250936068%2C%2C%2C2%2C1%2C64139447%2CEND&GuardEncType=2&RTS=1755665825&from=28&hms_devid=65&online=1755665825&mag_hms=65,64&it=H4sIAAAAAAAAAy2MzQoCIRgA38aj-NeSB09F0EWCra7xqZ8i2Eq6LfT2tbHHgZmZG3g8H41nbAdReh09qKCVQ84goNQCB8f2knR82Wok8VBKnpKtYc3u4-HBGWVUKEm5GMh1_Z0KJCP-qn0_HbYNft2IbckeTeiRLtAppNQwwZzrRC8FPrdWNuULguruA5oAAAA
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGZkOTEwNjAtMzJmNy0zNTBmLWFmYWMtMGRlZWI1ZjhkNjMy
-#EXTINF:-1 tvg-id="411.astro" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-logo="" group-title="FHD",Hbo
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225792/3221225792.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=%2BvgK3zYRypqBVuUDhd7%2BeAROiBdPJN0fHfDjMwaXcmThq66wVmTgQfuyifcuze58B9JzOldbjLVfp%2BoN%2FP4jCgXnlpFDrfIyV3eRJDSVTdyR7V27%2F4WoWNlcdn%2BYQkp2fefa8b31dffe1d26c956feaea66c2373%3A20250820045825%3AUTC%2C1005926114%2C118.100.28.224%2C20250820045825%2Curn%3AHuawei%3AliveTV%3AXTV64139408%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1615850%2C0%2C521145%2C3250936068%2C%2C%2C2%2C1%2C64139418%2CEND&GuardEncType=2&RTS=1755665905&from=28&hms_devid=64&online=1755665905&mag_hms=64,65&it=H4sIAAAAAAAAAy2MQQrCMBAAf9Pjkiat3RxyUgQvQah6lTXZhkBsMakFf6-VHgdmZs7k-HQwqHQrW9ZdJ4ZmkF5jjcoLrzUqRMaq8MtORlWOUopjsJNfs1u_v9cCBMhGQS131WX9HRMFI_-qfT8fnDf4dT3nJTo2vgywUAEKIXOgOU4jnBN9rjltyhcFpR4dmgAAAA
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGZkOTEwNjAtMzJmNy0zNTBmLWFmYWMtMGRlZWI1ZjhkNjMy
-#EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-logo="" group-title="FHD",Rock Action
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225714/3221225714.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=ZFHdL%2B17v7%2BlWPbYX3%2Fys5mb8mydMgzlFF16oI115mjyfEGAdCSz5Xl%2BXTrRFvNyBrLdHYESMy35UdEyB%2BrbheUNpaQTLb9%2BpmDspEVDj1fDbmItPeEUPqotX%2BthFeuja4ae4223017bfd0ec174d632c9a224c5%3A20250820045914%3AUTC%2C1005926114%2C118.100.28.224%2C20250820045914%2Curn%3AHuawei%3AliveTV%3ASP000002372888%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C812%2C%2C%2C2%2C1615850%2C0%2C521145%2C3250936068%2C%2C%2C2%2C1%2C38729863%2CEND&GuardEncType=2&RTS=1755665955&from=28&hms_devid=65&online=1755665955&mag_hms=65,64&it=H4sIAAAAAAAAAy2MQQrCMBAAf5Pj0iTFtoecFMFLEKpeZbNZQyA2mNSCv9dKjwMzMxckPh0MeepdL7Vk5tZxh82gVDdodOyJpBeVXzYbLQhTilOw2a_ZbdzfZQMNqFaDVDtxWX_HhMGov2rfT8dlg183clkisfH1AQtWwBAKB5xjnuCc8HMtaVO-S_cx-JoAAAA
-
 #EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-logo="" group-title="FHD",Awani
 https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/index.m3u8
 
